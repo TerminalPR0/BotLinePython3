@@ -10,6 +10,7 @@ from gtts import gTTS
 from googletrans import Translator
 #==============================================================================#
 botStart = time.time()
+NzgyNTMzNzk4NzM4MDAxOTMx.X8NlZA.Tc7iRm7u9uLsu3hWEuvrlwRi9bM
 
 nadya = LINE()
 #nadya = LINE("TOKEN KAMU")
